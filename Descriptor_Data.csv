@@ -1,0 +1,14 @@
+Entry,Occurances
+ABCD,9
+A,9
+A!BCD!,2
+A!BCD!E,1
+ABCDE,1
+AB(C)D,5
+ABC,2
+ABC(D),1
+ AB(C)D,2
+ABCDEFGH,1
+AB,7
+AB(C),3
+ABC(D)E,1
